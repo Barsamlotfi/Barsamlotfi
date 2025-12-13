@@ -1,12 +1,21 @@
-<div align='center'>
-  <img src='./end-logo.png' width='300px'/>
-  <hr/>
-  <h4>This is Barsam Lotfi! Programmer</h4>
-</div>
-<br/>
-<h2>My Expertise</h2>
-<img src='https://skillicons.dev/icons?i=html,css,react,dart,flutter,py,django,git,github,wordpress&theme=dark' alt='My Expertise'/>
-<h2>Socials:</h2>
-<a href="https://instagram.com/ba0rsam" rel="nofollow"><img src="https://camo.githubusercontent.com/62a6f1539f3ecfcec7f4e54a8c3ed1341afc46f0207ea8661746aa0eedcd27f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://t.me/Barsamlo" rel="nofollow"><img src="https://camo.githubusercontent.com/92dc221a8ec5fd306f172bc9514595df08efa11704576653ebb71de0913a192f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/@quantofin" rel="nofollow"><img src="https://camo.githubusercontent.com/416d056cb68c516213474d983f37d52df4f7c9690ae50a1d3e27307153b46a4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" style="max-width: 100%;"></a>
+# 💫 About Me:
+Hi.<br>I build things before I fully understand them.<br>Sometimes they work. Sometimes they turn into lessons.<br><br>I’m a junior software developer working across mobile, web, and backend.<br>Mostly focused on Flutter, but comfortable moving between frontend, backend, and automation when needed.<br><br>Into building real projects, automation, bots, and connecting systems that probably shouldn’t talk to each other.<br>I care about learning by doing, writing cleaner code each time, and turning ideas into something usable.<br><br>Still learning. Still shipping.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ba0rsam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@quantofin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barsamcode@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Barsamlotfi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Barsamlotfi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Barsamlotfi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Barsamlotfi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
