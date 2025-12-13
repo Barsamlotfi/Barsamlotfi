@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./logo.png' width='300px'/>
+  <img src='./end-logo.png' width='300px'/>
   <hr/>
   <h4>This is Barsam Lotfi! Programmer</h4>
 </div>
