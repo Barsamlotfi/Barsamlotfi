@@ -1,7 +1,9 @@
 <div align='center'>
-  <img src='./logo.png' width='250px'/>
-  <h1>This is Barsam Lotfi! Programmer</h1>
+  <img src='./logo.png' width='300px'/>
+  <hr/>
+  <h4>This is Barsam Lotfi! Programmer</h4>
 </div>
+<br/>
 <h2>My Expertise</h2>
 <img src='https://skillicons.dev/icons?i=html,css,react,dart,flutter,py,django,git,github,wordpress&theme=dark' alt='My Expertise'/>
 <h2>Socials:</h2>
