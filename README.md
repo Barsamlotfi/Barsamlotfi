@@ -1,4 +1,6 @@
-<br/><img src="./end-logo.png" width="250px" align="center"/>
+<div align="center">
+  <img src="./end-logo.png"  width="250px"/>
+</div>
 
 # 💫 About Me:
 Hi.<br>I build things before I fully understand them.<br>Sometimes they work. Sometimes they turn into lessons.<br><br>I’m a junior software developer working across mobile, web, and backend.<br>Mostly focused on Flutter,<img align="right" alt="barsam-lotfi" width="300px" border-ridus="50px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/> but comfortable moving between frontend, backend, and automation when needed.<br><br>Into building real projects, automation, bots, and connecting systems that probably shouldn’t talk to each other.<br>I care about learning by doing, writing cleaner code each time, and turning ideas into something usable.<br><br>Still learning. Still shipping.
